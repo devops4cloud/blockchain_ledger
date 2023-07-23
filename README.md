@@ -34,7 +34,11 @@ To use the application, follow the steps below.
 
 ## Interface
 
+Main Application Interface <br>
+   <img src="./images/pychain_app.png"> <br>
 
+Block Difficulty Slider <br>
+   <img src="./images/block_difficulty.png"> <br>
 
 
 ---
